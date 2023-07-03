@@ -1,0 +1,7 @@
+C:\Users\jongk\OneDrive\바탕 화면\수업\가위바위보_2\project_RSP_2\project_RSP_2\obj\Debug\project_RSP_2.csproj.AssemblyReference.cache
+C:\Users\jongk\OneDrive\바탕 화면\수업\가위바위보_2\project_RSP_2\project_RSP_2\obj\Debug\project_RSP_2.csproj.CoreCompileInputs.cache
+C:\Users\jongk\OneDrive\바탕 화면\수업\가위바위보_2\project_RSP_2\project_RSP_2\bin\Debug\project_RSP_2.exe.config
+C:\Users\jongk\OneDrive\바탕 화면\수업\가위바위보_2\project_RSP_2\project_RSP_2\bin\Debug\project_RSP_2.exe
+C:\Users\jongk\OneDrive\바탕 화면\수업\가위바위보_2\project_RSP_2\project_RSP_2\bin\Debug\project_RSP_2.pdb
+C:\Users\jongk\OneDrive\바탕 화면\수업\가위바위보_2\project_RSP_2\project_RSP_2\obj\Debug\project_RSP_2.exe
+C:\Users\jongk\OneDrive\바탕 화면\수업\가위바위보_2\project_RSP_2\project_RSP_2\obj\Debug\project_RSP_2.pdb
